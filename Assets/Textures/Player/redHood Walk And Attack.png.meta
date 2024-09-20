@@ -1,0 +1,2929 @@
+fileFormatVersion: 2
+guid: 18633c9ff3fde13499e2991a02cbce68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redHood Walk And Attack_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1366
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2558b52bd77463e4c8f09ba2809dcc7a
+      internalID: -1209373517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1366
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6604c27471cf645b30d3a98867116c
+      internalID: -140048664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1366
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8e2a214891e5438b0e20f763f7aac
+      internalID: -1217268051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1366
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e2c4c36115a4f4dacc14e5db9823d3
+      internalID: 481115302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_4
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1366
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d703d80954a6641ada456c4cd56c89
+      internalID: 1203675286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_5
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1367
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b673f031f8edf641b318eb30cae5916
+      internalID: -980294454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_6
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1372
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f957ff492792740ac0d9b3b682417a
+      internalID: 2068612946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_7
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1374
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe64f217ff6c434aafc8a149d7964ce
+      internalID: 1802868373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_8
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1372
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bd85280ecc42d4a993cd180c7883ec
+      internalID: -1973810528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc045328bcc8f1740ab209157dc2bb4c
+      internalID: -1774840187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_10
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1366
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ac2c27411fbad4783c5f34e20a75ff
+      internalID: -38435777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_11
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1366
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aaf9b9625a3d8469149adbae36635a
+      internalID: -1778810297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1233
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338e4118d05d6c42877f4d83da1767a
+      internalID: -2034724390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1233
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88136607115bc347879903a515a3bba
+      internalID: 960929848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1233
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ac4fbfd9b526241ab03dc8c4c159cd
+      internalID: 201113967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1233
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9b659efd011147a69c27cab8447e6
+      internalID: -2042145349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_16
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1233
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36b9ec4c7aca8749a1b822a8423088a
+      internalID: -1429015753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1235
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae90592599b1144a362856e559a3d6
+      internalID: 34548379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1239
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b12785388157ce438c6fe789e368cb1
+      internalID: -1885402384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_19
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1241
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc58c446b7756f4d99a677cc5dec7fc
+      internalID: -31270911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_20
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1239
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dbaa3811f74424bb1f69e344e3ef59
+      internalID: 132040328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_21
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1236
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64df3dec0d2eea4aa8551103ed37f85
+      internalID: -733083153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_22
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1234
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7a995df36f01c4b9d4cbfd48a69624
+      internalID: 1615456082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_23
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1233
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3465fa9eb568bf5458c10c77d1c7f66d
+      internalID: 481122280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1102
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187bc831afc479e4aac897bfb4cdc2ae
+      internalID: -942087194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1100
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d51ac63df218764aa600e7a7922dde4
+      internalID: -121728422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1100
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95524c1c1b263f64ebdf82242b0092ff
+      internalID: -554816672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1100
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d1a15ca9c72464b9eb71e67e91d783
+      internalID: -1510594972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_28
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1100
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5069bfb8355772a4c8dd152a344b10dd
+      internalID: 1207661549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1100
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d061a1e6fd052242a259d6f6fcfa515
+      internalID: -864553218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_30
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1100
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e816eec5dc19f48b9709df08f64665
+      internalID: 649578837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_31
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1100
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf9068be0eaed24fa1a2de6ab4a55d2
+      internalID: -1465533668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_32
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1100
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c2f975e499e24ea5addc2ada6ab11
+      internalID: 126566647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_33
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1100
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ff921353ee05447bf2912b2401ecaa
+      internalID: 540128839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_34
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1100
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df921c378f6a2e947b4d0be5e4c7d078
+      internalID: 1536628764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_35
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1100
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6d5f8fd4fc60649a4a0843d689da6d
+      internalID: -1618056292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 967
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e556d5922ef32d42b22efe42fb8f398
+      internalID: 1622486927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 967
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded57fb0574d50e4389df1e169596bba
+      internalID: -1117774827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 967
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0848d9b1d06e3f74d8aea96d13550295
+      internalID: -24566043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 968
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1a081e6761ac4e80a276470746977
+      internalID: -1137991181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_40
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 969
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d015b2cb13aa64081766c2a6418735
+      internalID: -872507677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_41
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 970
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901c4d3bcc42ef84881ec32311e6f645
+      internalID: 1567599768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_42
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 971
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc76631e6584c468b855aa200070d4
+      internalID: -1986657772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_43
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 971
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3469a963d382648be4ac835c1bfdb3
+      internalID: -920716312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_44
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 971
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d00892a61e3a854cb39a139936fd6f0
+      internalID: -568018494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_45
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 971
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02431408c7ddd4b4d9392482dbd79543
+      internalID: -238938688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_46
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 969
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aa405be38493941923c4b968ef21af
+      internalID: -1390217430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_47
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 969
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a973af594d7a4ba0c4c8fbfcae8e4
+      internalID: -1978423263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 834
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c74117c919da75488716cd56d442c96
+      internalID: 380763558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 834
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005fb5a0a09a4147b29ffb488684e8f
+      internalID: -1390786484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 834
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593daa188ec66d242889109a318a2f0a
+      internalID: -1232179480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 834
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65942c435d0092f40988565070e93996
+      internalID: -16588012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_52
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 834
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39688a74b1371641a53cd07d9c598ea
+      internalID: 1693192623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_53
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 834
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa119542fee4a4749ab81125349f0a06
+      internalID: 777300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_54
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 834
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ae6c25efbf2e5469a720025a102379
+      internalID: -261444457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_55
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 834
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e481c2922d1a9b64d9803199e925705f
+      internalID: 880283563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_56
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 834
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2e324e505fd69449e4d07c22fc1782
+      internalID: 2125174062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_57
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 834
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6427af7c977034a8ca4b1dd89fd4fa
+      internalID: 1069713355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_58
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 834
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e70d9eec2330e4498f366c49728f17b
+      internalID: -945174121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_59
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 834
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9741e0f2228341c4c9274366ae184c98
+      internalID: -2004518031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 701
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d486a6865ff2dc44b23b61b0bb8b28f
+      internalID: 229270812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 701
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ecf4cea88787d4ca3a2deff9eeafd6
+      internalID: -571958135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 701
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e002c9a2d3b24c86c7be1f4aa189b
+      internalID: -616358032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_63
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 701
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9521eb314c4e440b20b90e9d7c17da
+      internalID: -889976055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_64
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 701
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2267613c1508033488ac36ff458b878a
+      internalID: 562907759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_65
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 701
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c7a6ac5f1e3ec49989aeaa8031ca8d
+      internalID: 1896775335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_66
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 701
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3832ab1546c445140b0ed19276f336d9
+      internalID: -891334516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_67
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 701
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4339cc602596a6419e952d3ff15ad5f
+      internalID: 1106774689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_68
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 701
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f957ca609068af488b91b97e44b5ae3
+      internalID: -1986902330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_69
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 701
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb623935d408745bec85b92265c4b0
+      internalID: 1746721960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_70
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 701
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aec43a9d009444caa1ab3c57620ee5
+      internalID: -39367706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_71
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 701
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9dc89e4504b394ca7d370b11e213f3
+      internalID: -1177676151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_72
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 568
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb05ca11c5bb64428ac04ce89eac8eb
+      internalID: -342601049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 568
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17adc54112193543a9a12712d5cc6c3
+      internalID: 799446950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_74
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 568
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ff981ef81d3345b516d77c0a0b430
+      internalID: -1064629190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_75
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 568
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d21a54b7fdd584aac0ecfd3fff98fb
+      internalID: 1909014250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_76
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 568
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915ddcfec0165bc469f7de13ee7050a9
+      internalID: 900226985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_77
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 568
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b7cc4c359cd2948ab3db60f9860fca
+      internalID: 2122302603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_78
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846b0b0bfb7612d42a0b1c60f87833d2
+      internalID: 770496890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_79
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c411bb467d5eef41b35720a2c5a568b
+      internalID: -166298771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_80
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5741e4bf487004f8e73977cbcc95b2
+      internalID: -2132908220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_81
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02dbf4f39cca2440a3e61d8621268ef
+      internalID: -508947626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_82
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 568
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0c8820e2bd9fe4c9601a4daeee5464
+      internalID: 1598274692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_83
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 568
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f526df95780e754cb302fee2f724e4e
+      internalID: -1158330703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_84
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 435
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc52939e1726444a78c3ebed90b820
+      internalID: 799975188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 435
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef04c120569173d4ca1c6b039ab04e74
+      internalID: -302800346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 435
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f93e7a533e6fa746b440776a9820d4c
+      internalID: 957474848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_87
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 435
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b77d3d9dcd874b9111dca5cf7a4f7
+      internalID: -1357984380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_88
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 435
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e74d473ea4ae044b1d648d16ab5870
+      internalID: 875405893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_89
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 435
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3524bba75e5239c408031f5037834405
+      internalID: -612247087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_90
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 435
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3bb367c791d77479f0d44be7a81971
+      internalID: -258559560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_91
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 435
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fd1cdaf4b493a48a144378b2b8c32a
+      internalID: 1052999083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_92
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 435
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc88ed42181e44fa63d4f27756cd7b
+      internalID: 896008674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_93
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 435
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93612488d0bb81c44b28ea88fc81add3
+      internalID: -1862011389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_94
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 435
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8aeeb554c68ad4e85bc7d1bed1a215
+      internalID: -1144244832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_95
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 435
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2975fdbdfbfd754485f28bc37a0e43c
+      internalID: -277371949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 302
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5c9b541af6434eb1889911c82ff46
+      internalID: 1287483711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_97
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 302
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe61de082ce05bc4ca9d360fd3752c14
+      internalID: -1758233744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 302
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d529a8e2cd838764b898de99083844fd
+      internalID: 57124898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_99
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 302
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af25cb8a27f0b43abb045b8b5fb844
+      internalID: 468876666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_100
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 302
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995e7f05cb50eb4cb3774ec8bee2506
+      internalID: -1592462061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_101
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 302
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2724629e824b4c4c84bc17286eb02cc
+      internalID: 507141573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_102
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 302
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764dd5fe8ae43894a8ceb1d754a954b9
+      internalID: -1450995684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_103
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 302
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfa6c4d5279bc24ca15b17d64177712
+      internalID: -1866638329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_104
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 302
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56887a8e7acb79a47b83714bdbab2a6e
+      internalID: 1485618584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_105
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 302
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c81d0d1084cd42abfb7d4e7e2c65a
+      internalID: 793517281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_106
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 302
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfdb90bf93a05248a7c9d8eab1a89a7
+      internalID: 1051267973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_107
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 302
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789fe9e2992c734ca5a5089cfb1eb09
+      internalID: 2033679840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_108
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 169
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75b50e96cf929e40bd78764722ea29b
+      internalID: 219730807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_109
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 169
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b93942c8dbbf848bf625fbd894cb6f
+      internalID: -2051554978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_110
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 169
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d919f312e2f8854197916fbb6c7203d
+      internalID: 1953714725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_111
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 169
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2fa68902539ad4b8e12d6f45c373cb
+      internalID: 872073052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_112
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 169
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7ef76f22845114185ad867d8517825
+      internalID: 1418125052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_113
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 169
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a505fef9be8ae3419b3b73a129c67b9
+      internalID: -1876461281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_114
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 169
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6cc357ecade9249bed27f89bb1d49d
+      internalID: -655086090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_115
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 169
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99371d6ff91994fbb4da2b0aac88a2
+      internalID: 161655767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_116
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 169
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40419a02a5ac4604198c4fe0bdf22f3f
+      internalID: 1384344320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_117
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 169
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f83052e008274ba43c3054e81b824
+      internalID: -1770968827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_118
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 169
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9c9a3f6ebfac140a26f0e11aefecb2
+      internalID: 530276621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_119
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 169
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ae4e9aa2141bb469ea141ad133fba4
+      internalID: 1540777767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_120
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 36
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177cd987008ed04f9f45af1bb3e5b5b
+      internalID: -218232309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_121
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 36
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec23cd35e80ab43af4b6795d2027e5
+      internalID: -1796100272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_122
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 36
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7171d624c954dde4bb81a13ee10ea3e1
+      internalID: -142303186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_123
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc5fad73543a7b4389340107afaf0b0
+      internalID: 2066298328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_124
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055dda5997c24c45b78e5dca03ebc5c
+      internalID: -426872006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_125
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9fcb910dccd07439d9180655b7d32f
+      internalID: -265731115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHood Walk And Attack_126
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 36
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50de710cd968a54696ff2dc1944df42
+      internalID: -829817743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      redHood Walk And Attack_44: -568018494
+      redHood Walk And Attack_75: 1909014250
+      redHood Walk And Attack_116: 1384344320
+      redHood Walk And Attack_125: -265731115
+      redHood Walk And Attack_35: -1618056292
+      redHood Walk And Attack_48: 380763558
+      redHood Walk And Attack_51: -16588012
+      redHood Walk And Attack_115: 161655767
+      redHood Walk And Attack_39: -1137991181
+      redHood Walk And Attack_53: 777300466
+      redHood Walk And Attack_25: -121728422
+      redHood Walk And Attack_23: 481122280
+      redHood Walk And Attack_62: -616358032
+      redHood Walk And Attack_42: -1986657772
+      redHood Walk And Attack_96: 1287483711
+      redHood Walk And Attack_68: -1986902330
+      redHood Walk And Attack_119: 1540777767
+      redHood Walk And Attack_57: 1069713355
+      redHood Walk And Attack_98: 57124898
+      redHood Walk And Attack_37: -1117774827
+      redHood Walk And Attack_67: 1106774689
+      redHood Walk And Attack_52: 1693192623
+      redHood Walk And Attack_78: 770496890
+      redHood Walk And Attack_118: 530276621
+      redHood Walk And Attack_6: 2068612946
+      redHood Walk And Attack_41: 1567599768
+      redHood Walk And Attack_3: 481115302
+      redHood Walk And Attack_58: -945174121
+      redHood Walk And Attack_108: 219730807
+      redHood Walk And Attack_81: -508947626
+      redHood Walk And Attack_99: 468876666
+      redHood Walk And Attack_27: -1510594972
+      redHood Walk And Attack_54: -261444457
+      redHood Walk And Attack_46: -1390217430
+      redHood Walk And Attack_95: -277371949
+      redHood Walk And Attack_107: 2033679840
+      redHood Walk And Attack_69: 1746721960
+      redHood Walk And Attack_50: -1232179480
+      redHood Walk And Attack_29: -864553218
+      redHood Walk And Attack_47: -1978423263
+      redHood Walk And Attack_45: -238938688
+      redHood Walk And Attack_74: -1064629190
+      redHood Walk And Attack_79: -166298771
+      redHood Walk And Attack_77: 2122302603
+      redHood Walk And Attack_71: -1177676151
+      redHood Walk And Attack_85: -302800346
+      redHood Walk And Attack_97: -1758233744
+      redHood Walk And Attack_90: -258559560
+      redHood Walk And Attack_93: -1862011389
+      redHood Walk And Attack_22: 1615456082
+      redHood Walk And Attack_92: 896008674
+      redHood Walk And Attack_113: -1876461281
+      redHood Walk And Attack_124: -426872006
+      redHood Walk And Attack_105: 793517281
+      redHood Walk And Attack_14: 201113967
+      redHood Walk And Attack_30: 649578837
+      redHood Walk And Attack_43: -920716312
+      redHood Walk And Attack_18: -1885402384
+      redHood Walk And Attack_120: -218232309
+      redHood Walk And Attack_94: -1144244832
+      redHood Walk And Attack_88: 875405893
+      redHood Walk And Attack_11: -1778810297
+      redHood Walk And Attack_65: 1896775335
+      redHood Walk And Attack_38: -24566043
+      redHood Walk And Attack_61: -571958135
+      redHood Walk And Attack_104: 1485618584
+      redHood Walk And Attack_17: 34548379
+      redHood Walk And Attack_34: 1536628764
+      redHood Walk And Attack_1: -140048664
+      redHood Walk And Attack_40: -872507677
+      redHood Walk And Attack_20: 132040328
+      redHood Walk And Attack_24: -942087194
+      redHood Walk And Attack_19: -31270911
+      redHood Walk And Attack_66: -891334516
+      redHood Walk And Attack_109: -2051554978
+      redHood Walk And Attack_8: -1973810528
+      redHood Walk And Attack_32: 126566647
+      redHood Walk And Attack_21: -733083153
+      redHood Walk And Attack_60: 229270812
+      redHood Walk And Attack_16: -1429015753
+      redHood Walk And Attack_56: 2125174062
+      redHood Walk And Attack_72: -342601049
+      redHood Walk And Attack_49: -1390786484
+      redHood Walk And Attack_89: -612247087
+      redHood Walk And Attack_103: -1866638329
+      redHood Walk And Attack_110: 1953714725
+      redHood Walk And Attack_36: 1622486927
+      redHood Walk And Attack_31: -1465533668
+      redHood Walk And Attack_5: -980294454
+      redHood Walk And Attack_59: -2004518031
+      redHood Walk And Attack_9: -1774840187
+      redHood Walk And Attack_106: 1051267973
+      redHood Walk And Attack_26: -554816672
+      redHood Walk And Attack_101: 507141573
+      redHood Walk And Attack_28: 1207661549
+      redHood Walk And Attack_80: -2132908220
+      redHood Walk And Attack_83: -1158330703
+      redHood Walk And Attack_82: 1598274692
+      redHood Walk And Attack_126: -829817743
+      redHood Walk And Attack_64: 562907759
+      redHood Walk And Attack_10: -38435777
+      redHood Walk And Attack_86: 957474848
+      redHood Walk And Attack_76: 900226985
+      redHood Walk And Attack_70: -39367706
+      redHood Walk And Attack_117: -1770968827
+      redHood Walk And Attack_84: 799975188
+      redHood Walk And Attack_15: -2042145349
+      redHood Walk And Attack_91: 1052999083
+      redHood Walk And Attack_12: -2034724390
+      redHood Walk And Attack_73: 799446950
+      redHood Walk And Attack_63: -889976055
+      redHood Walk And Attack_0: -1209373517
+      redHood Walk And Attack_121: -1796100272
+      redHood Walk And Attack_123: 2066298328
+      redHood Walk And Attack_112: 1418125052
+      redHood Walk And Attack_100: -1592462061
+      redHood Walk And Attack_111: 872073052
+      redHood Walk And Attack_4: 1203675286
+      redHood Walk And Attack_33: 540128839
+      redHood Walk And Attack_7: 1802868373
+      redHood Walk And Attack_13: 960929848
+      redHood Walk And Attack_2: -1217268051
+      redHood Walk And Attack_114: -655086090
+      redHood Walk And Attack_122: -142303186
+      redHood Walk And Attack_55: 880283563
+      redHood Walk And Attack_102: -1450995684
+      redHood Walk And Attack_87: -1357984380
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
